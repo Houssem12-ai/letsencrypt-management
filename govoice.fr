@@ -1,0 +1,13 @@
+telcoz.govoice.fr 443
+beyond.plans.govoice.fr 443
+soditel-electronic.govoice.fr 443
+forti6.govoice.fr 443
+sbc.govoiceteams.govoice.fr 443
+lyncdiscover.govoiceteams.govoice.fr 443
+sip.govoiceteams.govoice.fr 443
+www.govoice.fr 443
+customer.govoice.fr 443
+govc01.govoice.fr 443
+govoiceteams.govoice.fr 443
+govoiceteams.govoice.fr 443
+soditel-electronic.govoice.fr 443
