@@ -1,5 +1,5 @@
 # Introduction
-Le Guide suivant illustre les étapes pour fetcher les fichiers du certificat ssl (letsencrypt) d'un domaine spécifique et les mettre en place dans le serveurs sur lequel on veut activer le certificat (le serveur comportant le sous-domaine)
+Le Guide suivant illustre les étapes pour fetcher les fichiers du certificat ssl (letsencrypt) d'un domaine spécifique et les mettre en place dans le serveur sur lequel on veut activer le certificat (le serveur comportant le sous-domaine)
 
 # Démarche
 
